@@ -1,0 +1,1 @@
+This Bank Fraud Analysis Dashboard gives a data-driven view of customer behaviour patterns related to fraudulent activity. It reveals how frauds are influenced by customer demographics and financial status. This understanding equips banking institutions to enhance their fraud detection systems and prevent future losses.
